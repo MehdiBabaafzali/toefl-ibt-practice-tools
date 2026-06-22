@@ -118,3 +118,10 @@ Mark each missing letter with a single underscore `_`. Use spaces between unders
 - Each passage is self-contained with no required background knowledge
 
 **Example format:**
+"The ocean covers more than 70 percent of the Earth's surface.
+
+De_ _ _ _ _ _ _ _ it_ enormous si_ , much of it re _ _ _ _
+
+unexplored. Sc_ _ _ _ _ _ _ _ estimate th_ _ millions of sp_ _ _ _ _
+
+have ye_ to be di_ _ _ _ _ _ _ _ ."
