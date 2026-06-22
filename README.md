@@ -1,5 +1,3 @@
-# toefl-ibt-practice-tools
-Free, offline TOEFL iBT (2026 format) practice tools — interactive Build a Sentence and C-Test exercises with AI prompt templates for every task type. No account, no paywall.
 # TOEFL iBT Practice Tools — Free & Open Source
 
 Free, browser-based practice for the **TOEFL iBT (2026 format)**. No account, no paywall, works offline, and fully customizable. Use any AI assistant to generate unlimited new exercises.
